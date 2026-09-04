@@ -1,0 +1,8 @@
+{
+  "baseFontSize": 27,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "NotoMono Nerd Font",
+  "translucency": false,
+  "showViewHeader": true,
+  "showRibbon": true
+}
